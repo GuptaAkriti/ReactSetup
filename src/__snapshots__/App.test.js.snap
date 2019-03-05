@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component renders the Counter wrapper 1`] = `
+Array [
+  <p>
+    hello
+  </p>,
+]
+`;
